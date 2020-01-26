@@ -1,0 +1,12 @@
+F:\Visual Studio 2019\OnlineEventManagementSystem\OnlineEventManagementSystem\bin\Debug\OnlineEventManagementSystem.exe.config
+F:\Visual Studio 2019\OnlineEventManagementSystem\OnlineEventManagementSystem\obj\Debug\OnlineEventManagementSystem.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2019\OnlineEventManagementSystem\OnlineEventManagementSystem\bin\Debug\OnlineEventManagementSystem.exe
+F:\Visual Studio 2019\OnlineEventManagementSystem\OnlineEventManagementSystem\bin\Debug\OnlineEventManagementSystem.pdb
+F:\Visual Studio 2019\OnlineEventManagementSystem\OnlineEventManagementSystem\obj\Debug\OnlineEventManagementSystem.exe
+F:\Visual Studio 2019\OnlineEventManagementSystem\OnlineEventManagementSystem\obj\Debug\OnlineEventManagementSystem.pdb
+F:\Visual Studio\OnlineEventManagementSystem\OnlineEventManagementSystem\bin\Debug\OnlineEventManagementSystem.exe.config
+F:\Visual Studio\OnlineEventManagementSystem\OnlineEventManagementSystem\obj\Debug\OnlineEventManagementSystem.exe
+F:\Visual Studio\OnlineEventManagementSystem\OnlineEventManagementSystem\obj\Debug\OnlineEventManagementSystem.pdb
+F:\Visual Studio\OnlineEventManagementSystem\OnlineEventManagementSystem\obj\Debug\OnlineEventManagementSystem.csprojResolveAssemblyReference.cache
+F:\Visual Studio\OnlineEventManagementSystem\OnlineEventManagementSystem\bin\Debug\OnlineEventManagementSystem.exe
+F:\Visual Studio\OnlineEventManagementSystem\OnlineEventManagementSystem\bin\Debug\OnlineEventManagementSystem.pdb
